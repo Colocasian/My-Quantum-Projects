@@ -1,0 +1,11 @@
+/home/rishvic/Documents/Dev/Quany/Crypt/bin/Debug/netcoreapp2.0/Crypt.deps.json
+/home/rishvic/Documents/Dev/Quany/Crypt/bin/Debug/netcoreapp2.0/Crypt.runtimeconfig.json
+/home/rishvic/Documents/Dev/Quany/Crypt/bin/Debug/netcoreapp2.0/Crypt.runtimeconfig.dev.json
+/home/rishvic/Documents/Dev/Quany/Crypt/bin/Debug/netcoreapp2.0/Crypt.dll
+/home/rishvic/Documents/Dev/Quany/Crypt/bin/Debug/netcoreapp2.0/Crypt.pdb
+/home/rishvic/Documents/Dev/Quany/Crypt/obj/Debug/netcoreapp2.0/Crypt.csprojAssemblyReference.cache
+/home/rishvic/Documents/Dev/Quany/Crypt/obj/Debug/netcoreapp2.0/Crypt.csproj.CoreCompileInputs.cache
+/home/rishvic/Documents/Dev/Quany/Crypt/obj/Debug/netcoreapp2.0/Crypt.AssemblyInfoInputs.cache
+/home/rishvic/Documents/Dev/Quany/Crypt/obj/Debug/netcoreapp2.0/Crypt.AssemblyInfo.cs
+/home/rishvic/Documents/Dev/Quany/Crypt/obj/Debug/netcoreapp2.0/Crypt.dll
+/home/rishvic/Documents/Dev/Quany/Crypt/obj/Debug/netcoreapp2.0/Crypt.pdb

@@ -1,0 +1,11 @@
+/home/rishvic/Documents/Dev/Quany/Teleportation/obj/Debug/netcoreapp2.0/Teleportation.csprojAssemblyReference.cache
+/home/rishvic/Documents/Dev/Quany/Teleportation/obj/Debug/netcoreapp2.0/Teleportation.csproj.CoreCompileInputs.cache
+/home/rishvic/Documents/Dev/Quany/Teleportation/bin/Debug/netcoreapp2.0/Teleportation.deps.json
+/home/rishvic/Documents/Dev/Quany/Teleportation/bin/Debug/netcoreapp2.0/Teleportation.runtimeconfig.json
+/home/rishvic/Documents/Dev/Quany/Teleportation/bin/Debug/netcoreapp2.0/Teleportation.runtimeconfig.dev.json
+/home/rishvic/Documents/Dev/Quany/Teleportation/bin/Debug/netcoreapp2.0/Teleportation.dll
+/home/rishvic/Documents/Dev/Quany/Teleportation/bin/Debug/netcoreapp2.0/Teleportation.pdb
+/home/rishvic/Documents/Dev/Quany/Teleportation/obj/Debug/netcoreapp2.0/Teleportation.AssemblyInfoInputs.cache
+/home/rishvic/Documents/Dev/Quany/Teleportation/obj/Debug/netcoreapp2.0/Teleportation.AssemblyInfo.cs
+/home/rishvic/Documents/Dev/Quany/Teleportation/obj/Debug/netcoreapp2.0/Teleportation.dll
+/home/rishvic/Documents/Dev/Quany/Teleportation/obj/Debug/netcoreapp2.0/Teleportation.pdb
