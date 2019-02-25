@@ -1,0 +1,11 @@
+/home/rishvic/Documents/Dev/Quany/Comp/obj/Debug/netcoreapp2.0/Comp.csprojAssemblyReference.cache
+/home/rishvic/Documents/Dev/Quany/Comp/obj/Debug/netcoreapp2.0/Comp.csproj.CoreCompileInputs.cache
+/home/rishvic/Documents/Dev/Quany/Comp/obj/Debug/netcoreapp2.0/Comp.AssemblyInfoInputs.cache
+/home/rishvic/Documents/Dev/Quany/Comp/obj/Debug/netcoreapp2.0/Comp.AssemblyInfo.cs
+/home/rishvic/Documents/Dev/Quany/Comp/bin/Debug/netcoreapp2.0/Comp.deps.json
+/home/rishvic/Documents/Dev/Quany/Comp/bin/Debug/netcoreapp2.0/Comp.runtimeconfig.json
+/home/rishvic/Documents/Dev/Quany/Comp/bin/Debug/netcoreapp2.0/Comp.runtimeconfig.dev.json
+/home/rishvic/Documents/Dev/Quany/Comp/bin/Debug/netcoreapp2.0/Comp.dll
+/home/rishvic/Documents/Dev/Quany/Comp/bin/Debug/netcoreapp2.0/Comp.pdb
+/home/rishvic/Documents/Dev/Quany/Comp/obj/Debug/netcoreapp2.0/Comp.dll
+/home/rishvic/Documents/Dev/Quany/Comp/obj/Debug/netcoreapp2.0/Comp.pdb

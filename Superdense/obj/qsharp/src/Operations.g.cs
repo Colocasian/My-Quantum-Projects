@@ -171,45 +171,45 @@ namespace Superdense
                     MicrosoftQuantumPrimitiveH.Apply(qubit[0L]);
 #line 32 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
                     MicrosoftQuantumPrimitiveCNOT.Apply((qubit[0L], qubit[1L]));
-#line 35 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
+#line 36 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
                     if (bit1)
                     {
-#line 37 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
+#line 38 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
                         MicrosoftQuantumPrimitiveX.Apply(qubit[0L]);
                     }
 
-#line 39 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
+#line 40 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
                     if (bit0)
                     {
-#line 41 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
+#line 42 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
                         MicrosoftQuantumPrimitiveZ.Apply(qubit[0L]);
                     }
 
-#line 45 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
-                    MicrosoftQuantumPrimitiveCNOT.Apply((qubit[0L], qubit[1L]));
 #line 46 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
-                    MicrosoftQuantumPrimitiveH.Apply(qubit[0L]);
+                    MicrosoftQuantumPrimitiveCNOT.Apply((qubit[0L], qubit[1L]));
 #line 47 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
-                    got[0L] = M.Apply(qubit[0L]);
+                    MicrosoftQuantumPrimitiveH.Apply(qubit[0L]);
 #line 48 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
+                    got[0L] = M.Apply(qubit[0L]);
+#line 49 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
                     got[1L] = M.Apply(qubit[1L]);
-#line 50 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
+#line 51 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
                     if (((got[0L] != required[0L]) || (got[1L] != required[1L])))
                     {
-#line 52 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
+#line 53 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
                         success = false;
                     }
                 }
 
-#line 56 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
-                Set.Apply((qubit[0L], Result.Zero));
 #line 57 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
+                Set.Apply((qubit[0L], Result.Zero));
+#line 58 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
                 Set.Apply((qubit[1L], Result.Zero));
 #line hidden
                 Release.Apply(qubit);
             }
 
-#line 60 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
+#line 61 "/home/rishvic/Documents/Dev/Quany/Superdense/Operations.qs"
             return success;
         }
 

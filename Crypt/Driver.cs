@@ -9,9 +9,11 @@ namespace Crypt
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Using 8-bit (initial) pad...");
+
             using (var qsim = new QuantumSimulator())
             {
-                var hackd = true;
+                var hackd = false;
                 var bola = CryptSend.Run(qsim, 8, hackd).Result;
                 var safe = true;
 
