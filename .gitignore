@@ -1,5 +1,6 @@
 Quantum/
 *.code-workspace
+*/.vscode
 
 # Compiled source #
 ###################
